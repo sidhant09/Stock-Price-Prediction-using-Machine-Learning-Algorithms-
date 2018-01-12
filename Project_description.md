@@ -10,72 +10,72 @@ Then comparison of the result was done with the testing dataset (i.e. 25% of the
 
 # Feature Selection
 In the downloaded dataset 5 features were present for the daily stock price, namely:
-1.Opening price
-2.Closing price
-3.High price
-4.Low price
-5.Volume
+ 1.Opening price 
+ 2.Closing price
+ 3.High price
+ 4.Low price
+ 5.Volume
 
 
 Increased the number of features to 11 from the 5 already present for better training of the model, namely:
 
-1.Open change percentage list
-2.Close change percentage list
-3.High change percentage list
-4.Low change percentage list
-5.Volume change percentage list
-6.Open difference percentage list
-7.Volume difference percentage list
-8.Open price moving average list
-9.Close price moving average list
-10.High price moving average list
-11.Low price moving average list
+ 1.Open change percentage list
+ 2.Close change percentage list
+ 3.High change percentage list
+ 4.Low change percentage list
+ 5.Volume change percentage list
+ 6.Open difference percentage list
+ 7.Volume difference percentage list
+ 8.Open price moving average list
+ 9.Close price moving average list
+ 10.High price moving average list
+ 11.Low price moving average list
 
 Four feature lists were made comprising of all the 11 features to compare the accuracy for each set sets of features.
 
 Feature list 1
 
-1.Open change percentage list
-2.Close change percentage list
-3.High change percentage list
-4.Low change percentage list
-5.Volume change percentage list
+ 1.Open change percentage list
+ 2.Close change percentage list
+ 3.High change percentage list
+ 4.Low change percentage list
+ 5.Volume change percentage list
 
 Feature list 2
 
-1.Open change percentage list
-2.Close change percentage list
-3.High change percentage list
-4.Low change percentage list
-5.Volume change percentage list
-6.Open difference percentage list
-7.Volume difference percentage list
+ 1.Open change percentage list
+ 2.Close change percentage list
+ 3.High change percentage list
+ 4.Low change percentage list
+ 5.Volume change percentage list
+ 6.Open difference percentage list
+ 7.Volume difference percentage list
 
 Feature list 3
 
-1.Open change percentage list
-2.Close change percentage list
-3.High change percentage list
-4.Low change percentage list
-5.Volume change percentage list
-6.Open price moving average
-7.Close price moving average
-8.High price moving average
-9.Low price moving average
+ 1.Open change percentage list
+ 2.Close change percentage list
+ 3.High change percentage list
+ 4.Low change percentage list
+ 5.Volume change percentage list
+ 6.Open price moving average
+ 7.Close price moving average
+ 8.High price moving average
+ 9.Low price moving average
 
 Feature list 4
 
-1.Open change percentage list
-2.Close change percentage list
-3.High change percentage list
-4.Low change percentage list
-5.Volume change percentage list
-6.Open difference percentage list
-7.Volume difference percentage list
-8.Open price moving average
-9.Close price moving average
-10.High price moving average
-11.Low price moving average
+ 1.Open change percentage list
+ 2.Close change percentage list
+ 3.High change percentage list
+ 4.Low change percentage list
+ 5.Volume change percentage list
+ 6.Open difference percentage list
+ 7.Volume difference percentage list
+ 8.Open price moving average
+ 9.Close price moving average
+ 10.High price moving average
+ 11.Low price moving average
 
 
 # Implementation
