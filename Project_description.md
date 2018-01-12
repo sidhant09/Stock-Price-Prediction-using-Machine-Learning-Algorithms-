@@ -1,11 +1,15 @@
 #Machine learning algorithms used:
+
 •	Support Vector Machine (SVM)
 •	Reinforcement Neural Network (RNN)
 
+
 #Datasets
+
 Datasets taken for analyzing are of Apple Inc. (1980 – 2017) and Microsoft Corporation (1986 – 2017) from Equity-NASDAQ using Yahoo finance API. The data has been decomposed into two parts, 75% training dataset and 25% testing dataset.
 
 Then comparison of the result was done with the testing dataset (i.e. 25% of the dataset). Based on the outcomes, the accuracy of both the algorithms were compared. For visualization of the accuracies of both the algorithms line graphs was used.
+
 
 #Feature Selection
 
@@ -76,6 +80,7 @@ Open price moving average
 Close price moving average
 High price moving average
 Low price moving average
+
 
 #Implementation
 
